@@ -15,7 +15,7 @@
     "BOT_NUMBER": {
       "description": "Phone Number On Wich You will Gets Pairing Code",
       "required": true,
-      "value": ""
+      "value": "2349168039902"
     },
     "BOTNAME": {
       "description": "Give your BOT a name",
@@ -30,12 +30,12 @@
     "MODE": {
       "description": "mode public or private",
       "required": true,
-      "value": ""
+      "value": "private"
     },
     "PREFIX": {
       "description": "put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
       "required": false,
-      "value": ""
+      "value": "."
     },
      "HKEY": {
       "description": "Put your Heroku api key Here , Get one from here https://dashboard.heroku.com/account",
@@ -85,7 +85,7 @@
     "OWNER_NAME": {
       "description": "your owner Name",
       "required": false,
-      "value": ""
+      "value": "랜 • ཌᏆNᏚᎢᏆNᏟᎢད"
     },
      "REMOVEBG_KEY": {
       "description": "your Remove background api key",
